@@ -5,3 +5,20 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/antruong3007/math-util.git
 git push -u origin main
+
+câu lệnh làm làn đầu tiên cho máy mới cài git 
+- git config --global user.name
+- git congif --global user.email
+
+câu lẹnh làm đầu tiên cho kho mới 
+- tạo sẵn kho trên server - ko check cái gì cả
+- tạo project cùng tên khi trên Netbeans
+- tạo file .gitignnore (copy project cũ sang hoặc lên gitignore.io lấy)
+    đặt vào cùng thư mục chứa code ở trong máy local 
+GÕ LỆNH:
+- git init
+- git add *
+- git commit -m "thông điệp của bạn"
+- git branch -M main
+- git remote add origin https://github.com/antruong3007/math-util.git
+- git push -u origin main
