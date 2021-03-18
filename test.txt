@@ -22,3 +22,14 @@ GÕ LỆNH:
 - git branch -M main
 - git remote add origin https://github.com/antruong3007/math-util.git
 - git push -u origin main
+
+CÂU LỆNH LÀM HÀNG NGÀY, TỨC LÀ MÌNH, BẠN BÈ, TEAM SỬA CODE VÀ ĐƯA CODE LÊN 
+- luông đứng ở thư mục chứa code
+GÕ LỆNH
+-
+
+
+* LƯU Ý: 
+-> CONFLICT
+
+-> TRANG TRÍ CÁI THƯ MỰC/KHO/REPO/REPOSITORY CHO ĐẸP
