@@ -8,7 +8,7 @@
 #### Have fun with my code and feel free to give me any comments 
 
 #### Connect me via:
-[Facebook](https://www.facebook.com/profile.php?id=100027086198944)
+[Facebook](mailto: https://www.facebook.com/profile.php?id=100027086198944)
 [Email](mailto: antruong@gmail.com)
 
 #### © 2021 Thien An
