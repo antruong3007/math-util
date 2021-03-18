@@ -12,5 +12,7 @@
 
 [Email](mailto: antruong@gmail.com)
 
+![GitHub Logo](/images/logo.png)
+
 #### © 2021 Thien An
 
